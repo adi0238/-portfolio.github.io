@@ -56,7 +56,7 @@ Rapid urbanization poses significant challenges to environmental sustainability,
 ### 🎯 Topic: 
 
 - DAA (Design and Analysis of Algorithms)  
-- Focus: Algorithmic Problem Solving for Pollution cities  
+- Focus: Algorithmic Problem Solving for Sustainable City Design 
 
 ### 📋 Details:
 
